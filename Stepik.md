@@ -7,5 +7,5 @@
 ![[Pasted image 20260321192521.png]]
 ![[Pasted image 20260321192525.png]]
 ![[Pasted image 20260321192530.png]]
-![[Pasted image 20260321192534.png]]
+![[изображения/Pasted image 20260321192534.png]]
 62 б. / 4 коэфф. =**<u> 15,5 (баллов)</ su>**
