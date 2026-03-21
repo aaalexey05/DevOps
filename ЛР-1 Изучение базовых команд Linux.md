@@ -7,9 +7,9 @@ man pwd
 help pwd
 help cd
 ```
-![[Pasted image 20260320000152.png]]
-![[Pasted image 20260320000202.png]]
-![[Pasted image 20260320000213.png]]
+![](./изображения/Pasted%20image%2020260320000152.png)
+![](./изображения/Pasted%20image%2020260320000202.png)
+![](./изображения/Pasted%20image%2020260320000213.png)
 
 ---
 ## Ход работы
@@ -54,7 +54,7 @@ mkdir test
 cd test
 ```
 Переход внутрь папки.
-![[Pasted image 20260320000235.png]]
+![](./изображения/Pasted%20image%2020260320000235.png)
 
 ---
 ### 7. Просмотр содержимого каталога
@@ -80,7 +80,7 @@ touch test2/text
 ```bash
 mv test2/text test2/textSIT
 ```
-![[Pasted image 20260320000248.png]]
+![](./изображения/Pasted%20image%2020260320000248.png)
 
 ---
 ### 11. Копирование файла
@@ -105,7 +105,7 @@ ln -s copy.txt test2/simlink
 ```bash
 ls -la test2
 ```
-![[Pasted image 20260320000257.png]]
+![](./изображения/Pasted%20image%2020260320000257.png)
 
 ---
 ### 15. Удаление файлов
