@@ -1,0 +1,11 @@
+![[Pasted image 20260321192459.png]]
+![[Pasted image 20260321192502.png]]
+![[Pasted image 20260321192506.png]]
+![[Pasted image 20260321192509.png]]
+![[Pasted image 20260321192513.png]]
+![[Pasted image 20260321192518.png]]
+![[Pasted image 20260321192521.png]]
+![[Pasted image 20260321192525.png]]
+![[Pasted image 20260321192530.png]]
+![[Pasted image 20260321192534.png]]
+62 б. / 4 коэфф. =**<u> 15,5 (баллов)</ su>**
